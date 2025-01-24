@@ -1,1 +1,1 @@
-# UCC304_AI
+# UCS_420_Cognitive Computing
